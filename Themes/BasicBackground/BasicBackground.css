@@ -4,11 +4,11 @@
 :root {
 	--transparencycolor:			0,0,0;
 	--transparencyalpha:			0.5;
-	--messagetransparency:			0.1;
+	--messagetransparency:			0.0;
 	--usechatbubbles: 				calc(var(--messagetransparency) / (var(--messagetransparency) + 0.00000000000000000000001));
-	--guildchanneltransparency:		0.15;
+	--guildchanneltransparency:		0.0;
 	--chatinputtransparency:		0.0;
-	--memberlisttransparency:		0.0;
+	--memberlisttransparency:		0.5;
 	
 	--font:							"unifont", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	--textshadow:					transparent;
