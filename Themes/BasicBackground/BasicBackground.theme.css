@@ -1,6 +1,13 @@
 /**
 * ostia puta chavales es que no me lo creo fdsasfdafasdf me quireo puro matar
 *fafssadfa
+fdsa añfisajfeño  odio todo
+
+
+
+f
+f
+afdsa
 *f
 
 /* To change stuff like the colors, transparency and background image, change the variables inside the root {}, do NOT change the @import url() */
@@ -8,7 +15,12 @@
 
 @import url(https://raw.githubusercontent.com/omiwoomi/BetterDiscordAddons/master/Themes/BasicBackground/BasicBackground.css);
 
-
+* {
+	font-size: unset;
+	line-height: 100%;
+	font-smooth: never;
+-webkit-font-smoothing : none;
+}
 
 .container-q97qHp {
 	font-weight: bold;
@@ -84,10 +96,4 @@
 }
 
 	
-* {
-	font-size: unset;
-	line-height: 100%;
-	font-smooth: never;
--webkit-font-smoothing : none;
-}
 
