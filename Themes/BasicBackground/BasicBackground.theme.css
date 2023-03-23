@@ -14,6 +14,37 @@
 	font-weight: bold;
 	letter-spacing: 0px;
 }
+
+.username-h_Y3Us{
+	font-size: 16px;
+
+}
+
+.markup-eYLPri{
+	font-size: 16px;
+}
+
+.compact-2Nkcau .header-2jRmjb{
+	font-size: 16px;
+}
+
+.message-3g3FYR, .message-372Ods, .zalgo-26OfGz .messageContent-2t3eCI, .zalgo-26OfGz.cozy-VmLDNB .header-2jRmjb, .wrapper-15CKyy, .cozy-3hKWhq .header-35u4WP{
+	font-size: 16px;
+}
+
+.compact-2Nkcau .timestamp-p1Df1m, .cozy-VmLDNB .timestamp-p1Df1m.alt-1dvXnH{
+	font-size: 16px;
+	text-indent: unset;
+}
+
+.textArea-2CLwUE{
+	font-size: 16px;
+}
+
+.messageListItem-ZZ7v6g{
+	font-size: 16px;
+}
+
 :root {
 	--transparencycolor:			0,0,0;						/* default:	0,0,0																								*/
 	--transparencyalpha:			0.5;						/* default: 0.15				(general darkness of the app)													*/
@@ -23,7 +54,7 @@
 	--memberlisttransparency:		0.0;						/* default: 0.0					(additional darkness for member list)											*/
 	--accentcolor:					190,78,180;					/* default: 190,78,180			(RGB-format - blurple: 88,101,242 bd-blue: 58,113,193)							*/
 	
-	--font:							"unifont", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;		/* font used in most places										*/
+	--font-family-monospace:			"unifont";		/* font used in most places										*/
 	--textshadow:					transparent;				/* default: transparent			(textshadow for text ontop of accentcolor nodes, ONLY accepts a color, no px)	*/
 	--settingsicons:				1;							/* Use Settings Icons in User/Server/Channel Settings: 1 = yes, 0 = no											*/
 	
