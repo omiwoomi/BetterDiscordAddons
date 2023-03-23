@@ -1,18 +1,9 @@
 /**
-* ostia puta chavales es que no me lo creo fdsasfdafasdf
+* ostia puta chavales es que no me lo creo fdsasfdafasdf me quireo puro matar
 *fafssadfa
-*fasdfdsaf
-*fdfdsafsadfaafsadf
-*fdsaffdsa
-* ostia
-*fdfdsafsadfaafsadf
-* fkjdsalhakjfda fconchteurmare
- */
+*f
 
 /* To change stuff like the colors, transparency and background image, change the variables inside the root {}, do NOT change the @import url() */
-
-
-
 
 
 @import url(https://raw.githubusercontent.com/omiwoomi/BetterDiscordAddons/master/Themes/BasicBackground/BasicBackground.css);
@@ -21,7 +12,9 @@
 -webkit-font-smoothing : none;
 }
 
-body {font-size:12px;}
+body {
+	font-size: 12px;
+}
 
 :root {
 	--transparencycolor:			0,0,0;						/* default:	0,0,0																								*/
