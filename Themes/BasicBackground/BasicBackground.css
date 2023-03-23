@@ -423,7 +423,7 @@ body::after {
 #app-mount .childWrapper-1j_1ub {							/* homebutton/acronym	innerwrap							*/
 	background-color: rgba(var(--transparencycolor), .3);
 	color: var(--text-normal);
-	font-weight: 500;
+	font-weight: normal;
 }
 #app-mount .wrapper-3kah-n:hover .childWrapper-1j_1ub,
 #app-mount .wrapper-3kah-n.selected-1Drb7Z .childWrapper-1j_1ub {
@@ -6902,7 +6902,7 @@ html .bd-toast.toast-warn.icon::before {
 	box-sizing: border-box;
 	color: var(--interactive-normal);
 	font-size: 12px;
-	font-weight: 500;
+	font-weight: normal;
 	line-height: 18px;
 	margin-top: 2px;
 	margin-bottom: 2px;
@@ -7495,7 +7495,7 @@ html:only-child > head + body div.app-3xd6d0 > div.app-2CXKsg > div.layers-OrUES
 html:only-child > head + body div.app-3xd6d0 > div.app-2CXKsg > div.layers-OrUESM.layers-1YQhyW > div.layer-86YKbF.baseLayer-W6S8cY + div.layer-86YKbF > div.standardSidebarView-E9Pc3j > div.sidebarRegion-1VBisG > div.sidebarRegionScroller-FXiQOh.thin-RnSY0a.scrollerBase-1Pkza4.fade-27X6bG > nav.sidebar-nqHbhN > div.side-1lrxIh > div.info-3pQQBb::before {
 	content: "DevilBro" !important;
 	font-size: 12px !important;
-	font-weight: 600 !important;
+	font-weight: normal !important;
 	color: rgb(var(--accentcolor)) !important;
 	display: inline !important;
 	opacity: 1 !important;
