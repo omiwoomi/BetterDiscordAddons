@@ -10,7 +10,7 @@
 	--chatinputtransparency:		0.0;
 	--memberlisttransparency:		0.0;
 	
-	--font:							"gg sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	--font:							"unifont", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	--textshadow:					transparent;
 	
 	--accentcolor:					190,78,180;
@@ -6901,7 +6901,7 @@ html .bd-toast.toast-warn.icon::before {
 	border-radius: 2px;
 	box-sizing: border-box;
 	color: var(--interactive-normal);
-	font-size: 14px;
+	font-size: 12px;
 	font-weight: 500;
 	line-height: 18px;
 	margin-top: 2px;
