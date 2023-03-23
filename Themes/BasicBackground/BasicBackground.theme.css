@@ -16,14 +16,16 @@ afdsa
 @import url(https://raw.githubusercontent.com/omiwoomi/BetterDiscordAddons/master/Themes/BasicBackground/BasicBackground.css);
 
 * {
-	font-size: unset;
+	font-size: 16px;
 	line-height: 100%;
 	font-smooth: never;
 -webkit-font-smoothing : none;
+	font-weight: 400;
 }
 
 .container-q97qHp {
-	font-weight: bold;
+	font-size: 16px;
+	font-weight: unset;
 	letter-spacing: 0px;
 }
 
@@ -55,6 +57,98 @@ afdsa
 
 .messageListItem-ZZ7v6g{
 	font-size: 16px;
+}
+
+a, abbr, acronym, address, applet, big, blockquote, body, caption, cite, code, dd, del, dfn, div, dl, dt, em, fieldset, form, h1, h2, h3, h4, h5, h6, html, iframe, img, ins, kbd, label, legend, li, object, ol, p, pre, q, s, samp, small, span, strike, strong, table, tbody, td, tfoot, th, thead, tr, tt, ul, var{
+	font-size: 16px;
+}
+
+.subtext-14b69p{
+	font-size: 16px;
+}
+
+.heading-lg-bold-242r2N, .heading-lg-semibold-14ouVv{
+	font-size: 16px;
+}
+
+.eyebrow-1Shfyi, .heading-deprecated-12-normal-2QSQ4R{
+	font-size: 16px;
+}
+
+.eyebrow-1Shfyi{
+	letter-spacing: 0;
+}
+
+.text-xs-medium-311pdh, .text-xs-normal-3O7EaX{
+	font-size: 16px;
+}
+
+.text-sm-medium-2-Xzsi, .text-sm-normal-AEQz4v{
+	font-size: 16px;
+}
+
+.body-2Fhyoo{
+	font-size: 16px;
+}
+
+.textarea-_59yqs{
+	font-size: 16px;
+}
+
+.compact-2Nkcau .repliedMessage-3Z6XBG{
+	--text-indent: 0;
+	padding-left: 0;
+}
+
+.executedCommand-14-SNW, .repliedMessage-3Z6XBG, .threadMessageAccessory-2W9mjC{
+	font-size: 16px;
+}
+
+.embedDescription-1DrJxZ{
+	font-size: 16px;
+}
+
+.embedAuthorName-pGyUPR{
+	font-size: 16px;
+}
+
+.embedField-2kda1Q, .embedFieldName-9LYSyR{
+	font-size: 16px;
+}
+
+.embedFieldValue-3EHtvR{
+	font-size: 16px;
+}
+
+.embedFooterText-2Mc7H9{
+	font-size: 16px;
+}
+
+.usernameFont-2oJxoI{
+	font-size: 16px;
+}
+
+.description-foE_WP{
+	font-size: 16px;
+}
+
+.eyebrow-2wJAoF, .heading-deprecated-12-normal-2W7e8Q{
+	font-size: 16px;
+}
+
+.heading-xl-bold-38fuFv, .heading-xl-semibold-3E1dYv{
+	font-size: 16px;
+
+.text-xs-bold-9jfMvZ, .text-xs-semibold-GgBYxI{
+	font-size: 16px;
+}
+	
+.eyebrow-2wJAoF{
+	letter-spacing: 0;
+}
+
+.timestamp-p1Df1m.latin24CompactTimeStamp-2pXUBq{
+	width: 3rem;
 }
 
 :root {
