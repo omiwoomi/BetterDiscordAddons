@@ -1,15 +1,14 @@
 /**
 * ostia puta chavales es que no me lo creo fdsasfdafasdf me quireo puro matar
-*fafssadfa
-fdsa añfisajfeño  odio todo
+*fafssadfaFSDF
+fdsa añfisajfeño  odio todoFSDSFSD
 
-
-
+FDSFSDFSDF
+fSDFSFSD
 f
-f
-afdsa
-*f
-
+afdsaSDFSSDFSFSFD
+*fFSFDSDF
+FDSF
 /* To change stuff like the colors, transparency and background image, change the variables inside the root {}, do NOT change the @import url() */
 
 
@@ -155,9 +154,9 @@ a, abbr, acronym, address, applet, big, blockquote, body, caption, cite, code, d
 	--transparencycolor:			0,0,0;						/* default:	0,0,0																								*/
 	--transparencyalpha:			0.5;						/* default: 0.15				(general darkness of the app)													*/
 	--messagetransparency:			0.0;						/* default: 0.5					(additional shadows behind messages, set to 0 to remove boxes)					*/
-	--guildchanneltransparency:		0.15;						/* default: 0.15				(additional darkness for guild/channel list)									*/
+	--guildchanneltransparency:		0.0;						/* default: 0.15				(additional darkness for guild/channel list)									*/
 	--chatinputtransparency:		0.0;						/* default: 0.0					(additional darkness for chat input container)									*/
-	--memberlisttransparency:		0.0;						/* default: 0.0					(additional darkness for member list)											*/
+	--memberlisttransparency:		0.5;						/* default: 0.0					(additional darkness for member list)											*/
 	--accentcolor:					190,78,180;					/* default: 190,78,180			(RGB-format - blurple: 88,101,242 bd-blue: 58,113,193)							*/
 	
 	--font-family-monospace:			"unifont";		/* font used in most places										*/
