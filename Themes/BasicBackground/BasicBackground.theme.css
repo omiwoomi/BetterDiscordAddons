@@ -2,25 +2,7 @@
 * ostia puta chavales es que no me lo creo fFDSFADSFSADFASDFASDFdsasfdafasdf me quireo puro matar
 ASFDASDFASD
 had an affair with the devilFASFDASDF
-NO T AT ALL
-F
-DF
-DSA
-F
-SA
-DF
-SA
-FSA
-F
-AS
-DF
-AS
-F
-SAD
-F
-DSA
-F
-DSAFA
+
 /* To change stuff like the colors, transparency and background image, change the variables inside the root {}, do NOT change the @import url() */
 
 
@@ -206,7 +188,7 @@ a, abbr, acronym, address, applet, big, blockquote, body, caption, cite, code, d
 	--textshadow:					transparent;				/* default: transparent			(textshadow for text ontop of accentcolor nodes, ONLY accepts a color, no px)	*/
 	--settingsicons:				1;							/* Use Settings Icons in User/Server/Channel Settings: 1 = yes, 0 = no											*/
 	
-	--background:					url(https://cdn.discordapp.com/attachments/880297347131801653/1088296268490608660/journey_by_nowisee17_db1p6g8.png);	/* general background image				*/
+	--background:					url(https://64.media.tumblr.com/728cf4cebc514efcfd31e64af4b47698/8fada3612220b272-df/s2048x3072/affbcfc7de0a5b0bcb0279d68a0be4d93b027ade.gif); /*https://cdn.discordapp.com/attachments/880297347131801653/1088296268490608660/journey_by_nowisee17_db1p6g8.png);	 general background image				*/
 	--backgroundposition:			center;						/* default: center				(position of background - values: [center/top/right/bottom/left])				*/
 	--backgroundsize:				cover;						/* default: cover				(sizefit of background - values: [cover/contain/auto])							*/
 	--backgroundblur:				unset;						/* default: unset				(blur in px, only works when --background is set to an image)					*/
