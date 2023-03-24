@@ -174,6 +174,10 @@ a, abbr, acronym, address, applet, big, blockquote, body, caption, cite, code, d
 	width: 3.5rem;
 }
 
+.base-3bcbY3{
+	font-size: 16px;
+	font-weight: 400;
+}
 
 :root {
 	--transparencycolor:			0,0,0;						/* default:	0,0,0																								*/
