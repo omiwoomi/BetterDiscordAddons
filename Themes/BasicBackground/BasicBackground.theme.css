@@ -2,30 +2,7 @@
 * ostia puta chavales es que no me lo creo fFDSFADSFSADFASDFASDFdsasfdafasdf me quireo puro matar
 ASFDASDFASD
 had an affair with the devilFASFDASDF
-fdsfds
-sad
-fdsfds
-sad
-fdsfds
-sad
-fdsfds
-sad
-fdsfds
-sad
-fdsfds
-sad
-fdsfds
-sad
-fdsfds
-sad
-fdsfds
-sad
-fdsfds
-sad
-fdsfds
-sad
-fdsfds
-sad
+
 s/* To change stuff like the colors, transparency and background image, change the variables inside the root {}, do NOT change the @import url() */
 
 
@@ -205,7 +182,7 @@ a, abbr, acronym, address, applet, big, blockquote, body, caption, cite, code, d
 	--guildchanneltransparency:		0.15;						/* default: 0.15				(additional darkness for guild/channel list)									*/
 	--chatinputtransparency:		0.0;						/* default: 0.0					(additional darkness for chat input container)									*/
 	--memberlisttransparency:		0.15;						/* default: 0.0					(additional darkness for member list)											*/
-	--accentcolor:					190,78,180;					/* default: 190,78,180			(RGB-format - blurple: 88,101,242 bd-blue: 58,113,193)							*/
+	--accentcolor:					255,120,165;					/* default: 190,78,180			(RGB-format - blurple: 88,101,242 bd-blue: 58,113,193)							*/
 	
 	--font-family-monospace:			"unifont";		/* font used in most places										*/
 	--textshadow:					transparent;				/* default: transparent			(textshadow for text ontop of accentcolor nodes, ONLY accepts a color, no px)	*/
