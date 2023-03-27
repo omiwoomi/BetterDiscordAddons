@@ -201,6 +201,13 @@ a, abbr, acronym, address, applet, big, blockquote, body, caption, cite, code, d
 	font-size: 16px;
 }
 
+.compact-2Nkcau .avatar-2e8lTP{
+	width: 16px;
+	height: 16px;
+	margin-left: 2px;
+	margin-right: 4px;
+}
+
 :root {
 	--transparencycolor:			0,0,0;						/* default:	0,0,0																								*/
 	--transparencyalpha:			0.5;						/* default: 0.15				(general darkness of the app)													*/
