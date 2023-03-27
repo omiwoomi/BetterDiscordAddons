@@ -201,6 +201,15 @@ a, abbr, acronym, address, applet, big, blockquote, body, caption, cite, code, d
 	font-size: 16px;
 }
 
+#app-mount .messageItemBody-2EpHAK.hasReply-2Cr4KE .avatar-2e8lTP, #app-mount .repliedMessage-3Z6XBG ~ * .avatar-2e8lTP{
+	top: 0;
+}
+
+#app-mount .avatar-2e8lTP, #app-mount .avatar-l9Txm5{
+	position: relative;
+	left: 0;
+}
+
 .compact-2Nkcau .avatar-2e8lTP{
 	width: 16px;
 	height: 16px;
