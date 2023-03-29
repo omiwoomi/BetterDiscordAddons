@@ -192,7 +192,7 @@ a, abbr, acronym, address, applet, big, blockquote, body, caption, cite, code, d
 }
 
 .markup-eYLPri code.inline{
-	font-family-monospace: unifont;
+	font-family: unifont;
 	font-size: 16px;
 	padding: 0px;
 }
